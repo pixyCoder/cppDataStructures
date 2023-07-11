@@ -1,0 +1,8 @@
+
+
+Name value        : vijay
+Name address      : 0x7fff5da1f8f0
+Pointer value     : 0x7fff5da1f8f0
+Pointer reference : vijay
+
+

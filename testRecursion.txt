@@ -1,0 +1,6 @@
+
+
+Analytical sum of 10 numbers : 55
+Numerical sum of 10 numbers  : 55
+
+

@@ -1,0 +1,7 @@
+
+
+Input string 1      : Vijay
+Input string 2      : Venkatesh
+Concatenated string : VijayVenkatesh
+
+

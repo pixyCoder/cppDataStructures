@@ -1,0 +1,1 @@
+g++ -o testStringCountWord testStringCountWord.cpp

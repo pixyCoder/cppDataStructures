@@ -1,0 +1,6 @@
+
+a          : 2
+a cube     : 8
+c          : 3
+c square   : 9
+
